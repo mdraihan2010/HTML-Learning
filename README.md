@@ -14,6 +14,8 @@ This repository contains my HTML practice codes and learning journey.
 - Forms
 - Links
 - Images
+- HTML Entities
+- HTML Emojis
 
 ## Programming Language
 
