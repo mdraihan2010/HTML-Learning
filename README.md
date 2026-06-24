@@ -17,6 +17,8 @@ This repository contains my HTML practice codes and learning journey.
 - HTML Entities
 - HTML Emojis
 
+More topics will be added as I continue learning HTML.
+
 ## Programming Language
 
 - HTML5
@@ -27,5 +29,6 @@ This repository is created to track my progress while learning HTML and building
 
 ## Author
 
-Raihan
-CSE Student at Jashore University of Science and Technology (JUST)
+**Raihan**
+- CSE Student, Jashore University of Science and Technology (JUST)
+- Aspiring Web Developer
