@@ -33,6 +33,10 @@ This repository contains my HTML practice codes and documents my learning journe
 ### Day 08
 - HTML Forms
 
+### Day 09
+- HTML Audio
+- HTML Video
+
 More topics will be added as I continue learning HTML.
 
 ---
@@ -48,6 +52,7 @@ Day05_HTML_Images.html
 Day06_HTML_Hyperlinks.html
 Day07_HTML_Tables.html
 Day08_HTML_Forms.html
+Day09_HTML_Audio_&_Video.html
 ```
 
 ---
