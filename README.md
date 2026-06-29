@@ -37,6 +37,9 @@ This repository contains my HTML practice codes and documents my learning journe
 - HTML Audio
 - HTML Video
 
+### Day 10
+- HTML iFrame
+
 More topics will be added as I continue learning HTML.
 
 ---
@@ -44,15 +47,19 @@ More topics will be added as I continue learning HTML.
 ## Repository Structure
 
 ```text
-Day01_HTML_Basics.html
-Day02_Style_attributes_practice.html
-Day03_HTML_Entities_and_Emojis.html
-Day04_HTML_Lists.html
-Day05_HTML_Images.html
-Day06_HTML_Hyperlinks.html
-Day07_HTML_Tables.html
-Day08_HTML_Forms.html
-Day09_HTML_Audio_&_Video.html
+HTML-Learning/
+│
+├── Day01_HTML_Basics.html
+├── Day02_Style_attributes_practice.html
+├── Day03_HTML_Entities_and_Emojis.html
+├── Day04_HTML_Lists.html
+├── Day05_HTML_Images.html
+├── Day06_HTML_Hyperlinks.html
+├── Day07_HTML_Tables.html
+├── Day08_HTML_Forms.html
+├── Day09_HTML_Audio_&_Video.html
+├── Day10_HTML_Iframe.html
+└── README.md
 ```
 
 ---
@@ -65,7 +72,21 @@ Day09_HTML_Audio_&_Video.html
 
 ## Repository Purpose
 
-This repository is created to document my daily HTML learning progress and strengthen my foundation in Web Development through hands-on practice.
+This repository is created to document my daily HTML learning progress through practical coding exercises. It serves as a record of my journey toward building a strong foundation in Web Development.
+
+---
+
+## Future Learning Topics
+
+- HTML Semantic Elements
+- HTML Classes & IDs
+- HTML Block & Inline Elements
+- HTML Responsive Design
+- HTML Accessibility
+- HTML Canvas
+- HTML SVG
+
+More topics will be added as I continue learning.
 
 ---
 
@@ -75,3 +96,4 @@ This repository is created to document my daily HTML learning progress and stren
 
 - CSE Student, Jashore University of Science and Technology (JUST)
 - Aspiring Web Developer
+- Passionate about Competitive Programming and Problem Solving
