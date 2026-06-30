@@ -1,88 +1,81 @@
-# HTML Learning
+# 🌐 HTML Learning
 
-This repository contains my HTML practice codes and documents my learning journey as I build a strong foundation in Web Development.
+Welcome to my **HTML Learning** repository!
+
+This repository documents my HTML learning journey through daily practice and mini projects. It contains all the source codes, exercises, and projects I have completed while building a strong foundation in **Web Development**.
 
 ---
 
-## 📚 Learning Progress
+# 📚 Learning Progress
 
-### Day 01
+## ✅ Day 01
 - Basic HTML Structure
 - Headings
 - Paragraphs
 - Line Breaks
 - Text Formatting
 
-### Day 02
+## ✅ Day 02
 - HTML Style Attributes
 
-### Day 03
+## ✅ Day 03
 - HTML Entities
 - HTML Emojis
 
-### Day 04
+## ✅ Day 04
 - HTML Lists
 
-### Day 05
+## ✅ Day 05
 - HTML Images
 
-### Day 06
+## ✅ Day 06
 - HTML Hyperlinks
 
-### Day 07
+## ✅ Day 07
 - HTML Tables
 
-### Day 08
+## ✅ Day 08
 - HTML Forms
 
-### Day 09
+## ✅ Day 09
 - HTML Audio
 - HTML Video
 
-### Day 10
+## ✅ Day 10
 - HTML iFrame
 
-### Day 11
+## ✅ Day 11
 - HTML Semantic Tags
 
-More topics will be added as I continue learning HTML.
+## ✅ Day 12
+- HTML First Mini Project
+- Applied the HTML concepts learned so far
+
+More topics and projects will be added as I continue my Web Development journey.
 
 ---
 
-## 📁 Repository Structure
-
-```text
-HTML-Learning/
-│
-├── Day01_HTML_Basics.html
-├── Day02_Style_attributes_practice.html
-├── Day03_HTML_Entities_and_Emojis.html
-├── Day04_HTML_Lists.html
-├── Day05_HTML_Images.html
-├── Day06_HTML_Hyperlinks.html
-├── Day07_HTML_Tables.html
-├── Day08_HTML_Forms.html
-├── Day09_HTML_Audio_&_Video.html
-├── Day10_HTML_Iframe.html
-├── Day11_HTML_Semantic_Tags.html
-└── README.md
-```
-
 ---
 
-## 💻 Programming Language
+# 💻 Programming Language
 
 - HTML5
 
 ---
 
-## 🎯 Repository Purpose
+# 🎯 Repository Purpose
 
-This repository is created to document my daily HTML learning progress through practical coding exercises. It serves as a record of my journey toward building a strong foundation in Web Development.
+The purpose of this repository is to:
+
+- Learn HTML from beginner to advanced level.
+- Practice every HTML concept with hands-on coding.
+- Build mini projects using learned topics.
+- Track my daily learning progress.
+- Prepare a strong foundation for CSS, JavaScript, and modern Web Development.
 
 ---
 
-## 🚀 Future Learning Topics
+# 🚀 Future Learning Topics
 
 - HTML Classes & IDs
 - HTML Block & Inline Elements
@@ -95,15 +88,27 @@ This repository is created to document my daily HTML learning progress through p
 - HTML Geolocation
 - HTML APIs
 
-More topics will be added as I continue learning.
+More topics and projects will be added as I continue learning.
 
 ---
 
-## 👨‍💻 Author
+# 📈 Current Progress
 
-**Raihan**
+- ✅ 12 Learning Days Completed
+- ✅ 1 HTML Mini Project Completed
+- ✅ Strong Foundation in HTML Basics
 
-- CSE Student, Jashore University of Science and Technology (JUST)
-- Aspiring Web Developer
-- Competitive Programming Enthusiast
-- Passionate about Problem Solving and Continuous Learning
+---
+
+# 👨‍💻 Author
+
+**MD Raihan**
+
+- 🎓 CSE Student, Jashore University of Science and Technology (JUST)
+- 💻 Aspiring Web Developer
+- 🏆 Competitive Programming Enthusiast
+- 🚀 Passionate about Problem Solving and Continuous Learning
+
+---
+
+⭐ **If you find this repository helpful, feel free to give it a star!**
