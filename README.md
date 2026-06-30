@@ -55,8 +55,6 @@ More topics and projects will be added as I continue my Web Development journey.
 
 ---
 
----
-
 # 💻 Programming Language
 
 - HTML5
