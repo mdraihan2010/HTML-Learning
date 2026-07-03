@@ -2,7 +2,7 @@
 
 Welcome to my **HTML Learning** repository!
 
-This repository documents my HTML learning journey through daily practice and mini projects. It contains the source codes, exercises, and projects I have completed while building a strong foundation in **Web Development**.
+This repository documents my journey of learning **HTML5** through daily practice, hands-on exercises, and mini projects. It serves as a complete record of my progress while building a strong foundation in **Web Development**.
 
 ---
 
@@ -38,8 +38,7 @@ This repository documents my HTML learning journey through daily practice and mi
 - HTML Forms
 
 ## ✅ Day 09
-- HTML Audio
-- HTML Video
+- HTML Audio & Video
 
 ## ✅ Day 10
 - HTML iFrame
@@ -48,38 +47,23 @@ This repository documents my HTML learning journey through daily practice and mi
 - HTML Semantic Tags
 
 ## ✅ Day 12
-- HTML First Mini Project
-- Applied the HTML concepts learned so far
+- First HTML Mini Project
+- Combined previously learned HTML concepts
 
 ## ✅ Day 13
 - HTML Span Element
 - HTML Class Attribute
 - HTML ID Attribute
 
+## ✅ Day 14
+- HTML Progress Element
+- HTML SVG Graphics
+
+## ✅ Day 15
+- Second HTML Mini Project
+- Practical implementation of HTML concepts
+
 More topics and projects will be added as I continue my Web Development journey.
-
----
-
-# 📁 Repository Structure
-
-```text
-HTML-Learning/
-│
-├── Day01_HTML_Basics.html
-├── Day02_Style_attributes_practice.html
-├── Day03_HTML_Entities_and_Emojis.html
-├── Day04_HTML_Lists.html
-├── Day05_HTML_Images.html
-├── Day06_HTML_Hyperlinks.html
-├── Day07_HTML_Tables.html
-├── Day08_HTML_Forms.html
-├── Day09_HTML_Audio_&_Video.html
-├── Day10_HTML_Iframe.html
-├── Day11_HTML_Semantic_Tags.html
-├── Day12_HTML_First_Project.html
-├── Day13_HTML_Span_Class_ID.html
-└── README.md
-```
 
 ---
 
@@ -95,19 +79,23 @@ The purpose of this repository is to:
 
 - Learn HTML from beginner to advanced level.
 - Practice every HTML concept through hands-on coding.
-- Build mini projects using learned topics.
+- Build real-world mini projects.
 - Track my daily learning progress.
-- Prepare a strong foundation for CSS, JavaScript, and modern Web Development.
+- Strengthen my foundation before learning CSS and JavaScript.
+- Prepare for modern Web Development.
 
 ---
 
 # 📈 Current Progress
 
-- ✅ 13 Learning Days Completed
-- ✅ 1 HTML Mini Project Completed
-- ✅ HTML Basics Covered
-- ✅ HTML Semantic Elements Learned
-- ✅ HTML Span, Class & ID Completed
+- ✅ 15 Learning Days Completed
+- ✅ 2 HTML Mini Projects Completed
+- ✅ HTML Basics Mastered
+- ✅ Semantic HTML Learned
+- ✅ HTML Forms, Tables & Multimedia
+- ✅ HTML Span, Class & ID
+- ✅ HTML Progress Element & SVG
+- 🔄 Continuously Learning More
 
 ---
 
@@ -117,13 +105,21 @@ The purpose of this repository is to:
 - HTML Responsive Design
 - HTML Accessibility
 - HTML Canvas
-- HTML SVG
 - HTML Drag and Drop
 - HTML Web Storage
-- HTML Geolocation
-- HTML APIs
+- HTML Geolocation API
+- HTML Web APIs
+- Final HTML Project
 
 More topics and projects will be added as I continue learning.
+
+---
+
+# 🛠 Tools Used
+
+- Visual Studio Code
+- Git
+- GitHub
 
 ---
 
@@ -131,11 +127,18 @@ More topics and projects will be added as I continue learning.
 
 **MD Raihan**
 
-- 🎓 CSE Student, Jashore University of Science and Technology (JUST)
-- 💻 Aspiring Web Developer
-- 🏆 Competitive Programming Enthusiast
-- 🚀 Passionate about Problem Solving and Continuous Learning
+🎓 CSE Student, Jashore University of Science and Technology (JUST)
+
+💻 Aspiring Web Developer
+
+🏆 Competitive Programming Enthusiast
+
+🚀 Passionate about Problem Solving, Software Development, and Continuous Learning
 
 ---
 
-⭐ **If you find this repository helpful, feel free to give it a star!**
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a **⭐ Star**.
+
+It motivates me to continue learning and sharing my progress.
