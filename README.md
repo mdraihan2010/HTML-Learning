@@ -97,20 +97,6 @@ The purpose of this repository is to:
 - ✅ HTML Progress Element & SVG
 - 🔄 Continuously Learning More
 
----
-
-# 🚀 Upcoming Topics
-
-- HTML Block & Inline Elements
-- HTML Responsive Design
-- HTML Accessibility
-- HTML Canvas
-- HTML Drag and Drop
-- HTML Web Storage
-- HTML Geolocation API
-- HTML Web APIs
-- Final HTML Project
-
 More topics and projects will be added as I continue learning.
 
 ---
